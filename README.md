@@ -16,7 +16,7 @@ This repository contains the scripts and documentation for Assignment #1, which 
 
 ## Modeling
 * **Target Database:** Google BigQuery
-* **Schema:** Star Schema with Bridge Tables (Fact Collision, Dim Date, Dim Location
+* **Schema:** Star Schema with Bridge Tables (Fact Collision, Dim Date, Dim Location)
 * **Model Diagram:** The complete ERD is available in `docs/erd.pdf`
 
 ## Scripts
