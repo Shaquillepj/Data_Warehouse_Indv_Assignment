@@ -1,13 +1,13 @@
 # NYC Collision Data Warehouse--Assignment #1
 
 ## Project Overview
-This repository contains the scripts and documentation for Assignment #1, which  includews sourcing raw data via API, storing it in the cloud, and modeling it for a Data Warehouse ingestion. 
+This repository contains the scripts and documentation for Assignment #1, which  includes sourcing raw data via API, storing it in Google Cloud Storage, and modeling it for a Data Warehouse ingestion. 
 
 ## Data Sourcing
 * **Dataset:** NYC Motor Vehicle Collision Data:(https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 * **Sourcing Method:** Web API
 * **Data Dictionary:** `docs/data_dictionary.pdf`
-* **Exorted Data:** `docs/nyc_crashes.csv`
+* **Exported Data:** `docs/nyc_crashes.csv`
 
 ## Storage
 * **Raw Data Storage:** Google Cloud Storage
