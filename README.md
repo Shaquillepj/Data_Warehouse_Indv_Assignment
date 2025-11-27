@@ -19,7 +19,7 @@ This repository contains the scripts and documentation for Assignment #1, which 
 * **Schema:** Star Schema with Bridge Tables (Fact Collision, Dim Date, Dim Location)
 * **Model Diagram:** The complete ERD is available in `docs/mvc_schema.pdf`
 
-## Scripts
+## Scripts (Pending update)
 | Script File | Purpose 
 | :--- | :--- 
 | `notebooks/data_pull.ipynb` | **Data Sourcing & Storage:** Extracts data using API and transforms it
