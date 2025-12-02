@@ -1,4 +1,4 @@
-# NYC Collision Data Warehouse- Assignment #1
+# NYC Collision Data Warehouse- Assignment 1 & 2
 
 ## Project Overview
 This repository contains the scripts and documentation for Assignment #1, which  includes sourcing raw data via API, storing it in Google Cloud Storage, and modeling it for a Data Warehouse ingestion. 
