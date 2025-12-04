@@ -22,7 +22,8 @@ This repository contains the scripts and documentation for Assignment #1 and #2,
 ## Script
 | Script File | Purpose 
 | :--- | :--- 
-| `script/nyc_mvc_etl.py` | **ETL Process:** Reads staging data from Google Cloud Storage, transform data and loads into Google BigQuery
+| `script/nyc_mvc_etl.py` | **ETL Process:** Reads data from Google Cloud Storage, cleans and transforms it, then loads into Google BigQuery. 
+| `script/nyc_mvc_api_export.ipynb` | **API Data Export:** Pulls data for simple query via routing through BigQuery, getting JSON results, and saving as a CSV file for user
 
 
 ## Data Serving
