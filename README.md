@@ -28,6 +28,6 @@ This repository contains the scripts and documentation for Assignment #1 and #2,
 
 ## Data Serving
 * **Tableau Dashboard:** https://public.tableau.com/views/nyc_mvc_dash/mvc_data_serving?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-* **Dashhboard Export:** `docs/mvc_data_serving_dash.png`
+* **Dashboard Export:** `docs/mvc_data_serving_dash.png`
 
 
